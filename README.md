@@ -1,3 +1,1 @@
-# Practice-2
-Increase Decrease Number
-=======
+# Practice 2: Increase Decrease Number
